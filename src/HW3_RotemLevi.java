@@ -4,7 +4,6 @@ import java.awt.event.KeyEvent;
 import javax.swing.JApplet;
 
 //Name: Rotem Levi
-//ID: 205785959
 public class HW3_RotemLevi extends JApplet{ // for applet
 
 	private static final long serialVersionUID = 1L;
